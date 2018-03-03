@@ -7,3 +7,5 @@ Want to make Ethereum faster and more mainstream? I'm planning to do so. For me 
 - [ ] maybe further familiarize with the sharding implementation on top of PyEVM [here](https://github.com/ethereum/py-evm/tree/sharding);
 - [ ] familiarize with Parity; and
 - [ ] start building stateless sharding and Ethereum 2.0 in this repo.
+
+At the moment I'm working pro-bono, living off my savings. Once funds are raised or a grant is given by the Ethereum Foundation I can pay other developers.
