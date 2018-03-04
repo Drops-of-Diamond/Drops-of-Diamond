@@ -3,11 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/Drops-of-Diamond/Drops-of-Diamond/blob/master/LICENSE)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Drops-of-Diamond/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Want to make Ethereum faster and more mainstream? 
+Want to make Ethereum faster and more mainstream? I'm planning to do so.
 
 # About me
 
-I'm planning to do so. For me to do:
+For me to do:
 - [x] read the [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf);
 - [x] read about the [stateless client concept](https://ethresear.ch/t/the-stateless-client-concept/172);
 - [x] familiarize with the Python sharding repo [here](https://github.com/ethereum/sharding/tree/develop/sharding) (a doc is available [here](https://github.com/ethereum/sharding/blob/develop/docs/doc.md));
