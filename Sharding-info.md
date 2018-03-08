@@ -14,8 +14,8 @@ For me to do:
 - [x] learn about abstract programming language features;
 - [ ] WIP: [learn Rust](https://doc.rust-lang.org/book/second-edition);
 - [ ] maybe further familiarize with the sharding implementation on top of PyEVM [here](https://github.com/ethereum/py-evm/tree/sharding);
-- [ ] familiarize with Parity;
-- [ ] start building stateless sharding and Ethereum 2.0 in this repo;
+- [ ] familiarize with Parity. While it's probably best to understand it in detail that may not be needed. Having an idea of the overall design/structure may be sufficient.
+- [ ] Start building stateless sharding and Ethereum 2.0 in this repo;
 - [ ] not a high immediate priority as others have already tested Parity with EWasm: familiarising with EWasm [WebAssembly implementation](https://github.com/ewasm); and
 - [ ] (ongoing operation): keep track of major [Ethereum Research](https://ethresear.ch) topics.
 
