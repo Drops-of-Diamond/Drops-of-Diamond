@@ -1,4 +1,4 @@
-Welcome to the Diamond-Drops wiki!
+See https://github.com/Drops-of-Diamond/Diamond-drops for the latest developments.
 
 # Drops of Diamond
 
